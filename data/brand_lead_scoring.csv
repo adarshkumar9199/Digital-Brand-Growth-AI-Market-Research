@@ -1,0 +1,11 @@
+prospect_name,category,branding_need_score_1_to_5,online_presence_score_1_to_5,growth_signal_score_1_to_5,weighted_lead_score_0_to_100,outreach_priority,scoring_note
+Prospect 01,Personal care,4,2,5,75.0,High,Illustrative assessment; validate with live research before outreach.
+Prospect 02,Food & beverage,3,4,4,73.0,Medium,Illustrative assessment; validate with live research before outreach.
+Prospect 03,Fashion,5,2,4,75.0,High,Illustrative assessment; validate with live research before outreach.
+Prospect 04,Home & lifestyle,2,5,3,65.0,Medium,Illustrative assessment; validate with live research before outreach.
+Prospect 05,Wellness,4,3,5,81.0,High,Illustrative assessment; validate with live research before outreach.
+Prospect 06,Consumer tech,2,4,4,66.0,Medium,Illustrative assessment; validate with live research before outreach.
+Prospect 07,Food & beverage,5,2,3,68.0,Medium,Illustrative assessment; validate with live research before outreach.
+Prospect 08,Personal care,3,3,4,67.0,Medium,Illustrative assessment; validate with live research before outreach.
+Prospect 09,Fashion,4,4,2,66.0,Medium,Illustrative assessment; validate with live research before outreach.
+Prospect 10,Home & lifestyle,3,2,5,68.0,Medium,Illustrative assessment; validate with live research before outreach.
