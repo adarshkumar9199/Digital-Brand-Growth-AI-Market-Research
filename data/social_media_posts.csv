@@ -1,0 +1,61 @@
+post_id,brand,platform,post_date,content_type,content_theme,followers_at_post,reach,impressions,likes,comments,shares,saves,link_clicks,engagements,engagement_rate_pct,impressions_per_reached_user
+P001,Mangiee,Instagram,2026-01-01,Carousel,Tips,42000,24865,31076,890,60,261,280,284,1491,6.0,1.25
+P002,Mangiee,Instagram,2026-01-25,Reel,Behind the scenes,42000,26192,29703,1079,176,230,181,299,1666,6.36,1.13
+P003,Mangiee,Instagram,2026-10-09,Static Post,Testimonial,42000,15582,18735,930,47,37,54,242,1068,6.85,1.2
+P004,Mangiee,Instagram,2026-10-07,Static Post,Testimonial,42000,20116,32904,724,83,169,182,317,1158,5.76,1.64
+P005,Mangiee,Instagram,2026-06-06,Static Post,Product feature,42000,23008,35195,1401,133,201,149,212,1884,8.19,1.53
+P006,Mangiee,Instagram,2026-08-13,Reel,Behind the scenes,42000,31339,46756,2188,72,308,367,185,2935,9.37,1.49
+P007,Mangiee,Instagram,2026-02-07,Reel,How-to,42000,17268,22308,1292,37,208,274,145,1811,10.49,1.29
+P008,Mangiee,Instagram,2026-04-24,Story,Offer reminder,42000,12593,16204,691,48,133,107,78,979,7.77,1.29
+P009,Mangiee,Instagram,2026-01-28,Carousel,Comparison,42000,24992,33665,1516,107,335,134,247,2092,8.37,1.35
+P010,Mangiee,Instagram,2026-01-22,Reel,Behind the scenes,42000,35147,47228,1168,165,496,409,616,2238,6.37,1.34
+P011,Competitor A,Instagram,2026-05-17,Static Post,Announcement,68000,46978,71752,1618,131,137,117,636,2003,4.26,1.53
+P012,Competitor A,Instagram,2026-09-25,Static Post,Announcement,68000,53986,85372,1767,250,358,220,766,2595,4.81,1.58
+P013,Competitor A,Instagram,2026-04-19,Story,Poll,68000,18177,25065,528,66,204,232,105,1030,5.67,1.38
+P014,Competitor A,Instagram,2026-03-09,Story,Poll,68000,20770,32245,1458,97,64,228,356,1847,8.89,1.55
+P015,Competitor A,Instagram,2026-06-15,Carousel,Storytelling,68000,32777,40389,1907,229,147,258,587,2541,7.75,1.23
+P016,Competitor A,Instagram,2026-01-08,Story,UGC repost,68000,8858,10975,352,44,36,49,27,481,5.43,1.24
+P017,Competitor A,Instagram,2026-10-19,Reel,Product demo,68000,69782,80776,3038,481,341,388,1184,4248,6.09,1.16
+P018,Competitor A,Instagram,2026-02-02,Carousel,Checklist,68000,49431,60351,1652,238,345,502,675,2737,5.54,1.22
+P019,Competitor A,Instagram,2026-02-15,Carousel,Comparison,68000,49132,57873,1902,274,187,296,461,2659,5.41,1.18
+P020,Competitor A,Instagram,2026-07-16,Static Post,Announcement,68000,18685,27385,797,24,44,196,108,1061,5.68,1.47
+P021,Competitor B,Instagram,2026-09-22,Carousel,Checklist,35000,21487,25940,604,97,271,317,141,1289,6.0,1.21
+P022,Competitor B,Instagram,2026-08-17,Static Post,Offer,35000,9097,11238,208,46,19,52,25,325,3.57,1.24
+P023,Competitor B,Instagram,2026-02-19,Story,Offer reminder,35000,3840,6256,105,9,29,42,22,185,4.82,1.63
+P024,Competitor B,Instagram,2026-06-08,Reel,How-to,35000,8757,10188,597,53,53,66,111,769,8.78,1.16
+P025,Competitor B,Instagram,2026-02-03,Reel,Behind the scenes,35000,23591,30172,1136,177,75,249,424,1637,6.94,1.28
+P026,Competitor B,Instagram,2026-05-20,Carousel,Storytelling,35000,10407,16803,804,84,66,58,159,1012,9.72,1.61
+P027,Competitor B,Instagram,2026-02-24,Story,Offer reminder,35000,2669,4145,101,14,28,12,10,155,5.81,1.55
+P028,Competitor B,Instagram,2026-01-03,Carousel,Comparison,35000,10695,13172,504,71,126,114,64,815,7.62,1.23
+P029,Competitor B,Instagram,2026-09-01,Carousel,Comparison,35000,6562,8509,231,57,26,64,87,378,5.76,1.3
+P030,Competitor B,Instagram,2026-01-12,Reel,Behind the scenes,35000,20631,32232,1317,59,79,170,338,1625,7.88,1.56
+P031,Competitor C,Instagram,2026-04-28,Reel,Behind the scenes,91000,72992,95433,4564,618,1011,1097,1227,7290,9.99,1.31
+P032,Competitor C,Instagram,2026-04-09,Reel,Behind the scenes,91000,88643,100444,6467,382,1182,1404,1402,9435,10.64,1.13
+P033,Competitor C,Instagram,2026-04-08,Reel,Product demo,91000,52239,59579,2991,172,689,465,790,4317,8.26,1.14
+P034,Competitor C,Instagram,2026-09-11,Reel,Behind the scenes,91000,53401,67694,1794,411,347,606,687,3158,5.91,1.27
+P035,Competitor C,Instagram,2026-06-14,Story,Poll,91000,29441,37049,1511,220,66,300,221,2097,7.12,1.26
+P036,Competitor C,Instagram,2026-04-12,Carousel,Storytelling,91000,24269,38751,937,48,172,265,361,1422,5.86,1.6
+P037,Competitor C,Instagram,2026-05-18,Carousel,Comparison,91000,51702,76084,1808,425,409,675,373,3317,6.42,1.47
+P038,Competitor C,Instagram,2026-05-10,Reel,Customer story,91000,72846,96225,5364,226,661,711,1117,6962,9.56,1.32
+P039,Competitor C,Instagram,2026-03-22,Reel,How-to,91000,68594,88540,3811,476,575,1078,1190,5940,8.66,1.29
+P040,Competitor C,Instagram,2026-03-01,Reel,How-to,91000,72767,105381,2547,660,373,604,1084,4184,5.75,1.45
+P041,Competitor D,Instagram,2026-07-08,Reel,Customer story,27000,15617,23851,880,133,142,227,127,1382,8.85,1.53
+P042,Competitor D,Instagram,2026-08-02,Reel,Product demo,27000,20270,31946,1656,156,100,321,266,2233,11.02,1.58
+P043,Competitor D,Instagram,2026-10-27,Carousel,Tips,27000,9672,14940,632,85,86,166,157,969,10.02,1.54
+P044,Competitor D,Instagram,2026-05-25,Static Post,Announcement,27000,9308,14898,360,19,81,67,130,527,5.66,1.6
+P045,Competitor D,Instagram,2026-03-05,Static Post,Testimonial,27000,11758,14880,278,32,45,68,125,423,3.6,1.27
+P046,Competitor D,Instagram,2026-10-23,Reel,Behind the scenes,27000,17190,19837,920,101,124,115,149,1260,7.33,1.15
+P047,Competitor D,Instagram,2026-09-26,Reel,How-to,27000,11800,13252,592,89,146,214,102,1041,8.82,1.12
+P048,Competitor D,Instagram,2026-08-05,Carousel,Product education,27000,10061,12723,555,45,97,150,136,847,8.42,1.26
+P049,Competitor D,Instagram,2026-01-09,Story,Offer reminder,27000,1985,2637,100,3,15,8,18,126,6.35,1.33
+P050,Competitor D,Instagram,2026-08-01,Reel,Behind the scenes,27000,13029,16923,1060,50,176,130,200,1416,10.87,1.3
+P051,Competitor E,Instagram,2026-04-27,Static Post,Product feature,76000,68395,89288,3225,368,477,718,1175,4788,7.0,1.31
+P052,Competitor E,Instagram,2026-10-20,Reel,Behind the scenes,76000,39605,54297,1435,358,310,295,312,2398,6.05,1.37
+P053,Competitor E,Instagram,2026-07-13,Story,Poll,76000,25650,30954,988,128,275,255,423,1646,6.42,1.21
+P054,Competitor E,Instagram,2026-02-26,Story,Q&A,76000,9449,14041,505,19,87,126,109,737,7.8,1.49
+P055,Competitor E,Instagram,2026-02-14,Story,Poll,76000,15710,21162,649,71,80,209,238,1009,6.42,1.35
+P056,Competitor E,Instagram,2026-08-15,Story,UGC repost,76000,24023,32450,1407,177,107,308,254,1999,8.32,1.35
+P057,Competitor E,Instagram,2026-10-22,Carousel,Storytelling,76000,30868,48506,2300,71,373,213,291,2957,9.58,1.57
+P058,Competitor E,Instagram,2026-05-18,Reel,Product demo,76000,57318,74069,3339,257,310,448,661,4354,7.6,1.29
+P059,Competitor E,Instagram,2026-01-03,Reel,Behind the scenes,76000,29014,43568,1692,220,304,390,285,2606,8.98,1.5
+P060,Competitor E,Instagram,2026-06-12,Reel,Customer story,76000,70994,91034,4530,383,612,714,989,6239,8.79,1.28
